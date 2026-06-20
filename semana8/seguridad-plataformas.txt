@@ -1,0 +1,5 @@
+1. No exponer datos personales de los vecinos en secciones de acceso público.
+2. Proteger las credenciales de administración usando autenticación de doble factor.
+3. Usar conexiones seguras y cifradas mediante certificados SSL/HTTPS.
+4. Registrar los accesos y movimientos sospechosos en un archivo log del servidor.
+5. Limitar el acceso a la información sensible únicamente a los líderes autorizados.
